@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.venv/
+tmp_rl_monitor/
+*.zip
+*.log
+old/
+.vscode/
+.idea/
+
+# LaTeX generated files
+*.aux
+*.bbl
+*.blg
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bcf
+*.run.xml
+*.sav
